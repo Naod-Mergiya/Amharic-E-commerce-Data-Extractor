@@ -42,9 +42,11 @@ async def main():
         
         # List of channels to scrape
         channels = [
-            '@Shageronlinestore',  # Existing channel
-                 # You can add more channels here
-            
+            '@ZemenExpress',
+            '@nevacomputer',
+            '@meneshayeofficial',
+            '@ethio_brand_collection',
+            '@Leyueqa'
         ]
         
         # Iterate over channels and scrape data into the single CSV file
